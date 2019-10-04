@@ -75,6 +75,7 @@ let kennan = {
   }
 }
 console.log(kennan.speak());
+
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
 //console.log(antonietta.multiplyNums(3,4));
 function multiplyNums(num1, num2){
